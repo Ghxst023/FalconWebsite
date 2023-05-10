@@ -1,0 +1,19 @@
+.falcon_logo {
+  width: 60x;
+  height: 60px;
+  display: inline-block;
+  margin-bottom: 40px;
+  filter: invert(22%) sepia(72%) saturate(2674%) hue-rotate(346deg)
+    brightness(103%) contrast(87%);
+}
+
+.falcon_text {
+  color: white;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.image_resize {
+  width: 370px !important;
+  height: 300px !important;
+}
